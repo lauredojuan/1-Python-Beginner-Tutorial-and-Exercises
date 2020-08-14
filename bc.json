@@ -1,6 +1,6 @@
 {
     "port": 3000,
-    "address": "https://e4852880-87a0-4de0-a221-c64d4b853525.ws-us02.gitpod.io",
+    "address": "https://f7e21347-dc71-408c-9992-fc6aa93ea68d.ws-us02.gitpod.io",
     "editor": "gitpod",
     "configPath": {
         "config": "bc.json",
@@ -123,7 +123,7 @@
         {
             "slug": "08-Your-First-If",
             "title": "08-Your-First-If",
-            "done": false,
+            "done": true,
             "path": "exercises/08-Your-First-If",
             "translations": [
                 "es",
